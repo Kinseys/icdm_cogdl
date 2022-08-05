@@ -63,7 +63,7 @@ python gnn.py --model sign --dataset ICDM --epochs 200 --runs 10 --device 0
 
 
 ## Results:
-Performance on **DGraphFin**(10 runs):
+Performance on **icdm**(10 runs):
 
 | Methods   | Train AUC  | Valid AUC  |
 |  :----  |  ---- |  ---- |
