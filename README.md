@@ -65,7 +65,7 @@ python gnn.py --model sign --dataset ICDM --epochs 200 --runs 10 --device 0
 ## Results:
 Performance on **icdm**(10 runs):
 
-| Methods   | Train AUC  | Valid AUC  |
+| Methods   | Train Precision  | Valid Precision  |
 |  :----  |  ---- |  ---- |
 | SIGN | 0.9421 ± 0.0031 | 0.9213 ± 0.0042 |
 | GIN | 0.8965 ± 0.0257 | 0.8983 ± 0.0320 |
